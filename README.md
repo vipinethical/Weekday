@@ -1,4 +1,4 @@
-# Candidate Application Platform
+# Weekday Assignment
 
 ## Overview
 
