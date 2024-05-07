@@ -55,7 +55,7 @@ To run the application locally, follow these steps:
 ## Technology Stack
 
 - React
-- Redux
+- Vite
 - Material UI
 - CSS
 
