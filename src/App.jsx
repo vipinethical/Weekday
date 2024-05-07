@@ -1,12 +1,12 @@
 import React from "react";
 import Button from "@mui/material/Button";
 import "./index.css";
+import JobSearchPage from "./components/JobSearchPage";
 
 function App() {
   return (
     <div>
-      <h1>Welcome to Vite and Material-UI!</h1>
-      <Button variant="contained">Click Me</Button>
+      <JobSearchPage />
     </div>
   );
 }
